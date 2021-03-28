@@ -1,5 +1,5 @@
 :root {
-  --color-blue: #0ca2d9;
+  --color-blue: #0a91c3;
   --color-title: #434343;
 }
 
@@ -115,7 +115,7 @@ figure img {
 figure figcaption {
   align-self: center;
   font-size: 1.2rem;
-  color: #707070;
+  color: #646464;
 }
 
 @media (max-width: 640px) {
